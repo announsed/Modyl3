@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            string MyName = "Sergey";
+            const string MyName = "Sergey";
             Console.WriteLine(MyName);
+            Console.ReadKey();
         }
     }
 }
