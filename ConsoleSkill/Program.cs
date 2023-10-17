@@ -4,10 +4,8 @@
     {
         static void Main(string[] args)
         {
-            string MyName;
-            MyName = "Sergey";
+            string MyName = "Sergey";
             Console.WriteLine(MyName);
-
         }
     }
 }
