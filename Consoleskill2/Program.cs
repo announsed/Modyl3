@@ -6,11 +6,11 @@
         {
             string name = "Меня зовут Сергей!";
             byte age = 21;
-            Console.WriteLine($"{name}, \n{age}");
+            Console.WriteLine($"{name},\n{age}");
             bool yes = true;
-            Console.WriteLine($"Есть лии у вас питомец?, \n{yes}");
-            double size_foot = 45.5;
-            Console.WriteLine("Мой размер ноги", size_foot);
+            Console.WriteLine($"Есть лии у вас питомец?,\n{(yes?"DA":"NET")}");
+            double sizefoot = 45;
+            Console.WriteLine($"Мой размер ноги {sizefoot}");
             Console.ReadKey();
 
 
