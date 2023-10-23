@@ -37,7 +37,7 @@
 
                 Console.WriteLine("Твй цвет желтый!");
             }
-            else
+            else 
             {
                 Console.BackgroundColor = ConsoleColor.Black;
                 Console.ForegroundColor = ConsoleColor.Magenta;
@@ -45,7 +45,7 @@
                 Console.WriteLine("А мы знаем только - красный, зеленый, голубой, желтый!");
                 Console.WriteLine("Кароче, на те вишневый какой-то!!:>");
 
-
+            
             }
             Console.ReadKey();
 
