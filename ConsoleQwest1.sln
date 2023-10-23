@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test2", "Test2\Test2.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q3.7.4", "Q3.7.4\Q3.7.4.csproj", "{71B6C27D-6D67-4FC5-A219-DE1ADA3CA1B6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleSkill4", "ConsoleSkill4\ConsoleSkill4.csproj", "{206AEEF0-94B9-4693-BB4A-9C554D4AD84F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSkill5", "ConsoleSkill5\ConsoleSkill5.csproj", "{2E4CD0D5-2EBB-42F0-9104-F3ACA17F935F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{71B6C27D-6D67-4FC5-A219-DE1ADA3CA1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71B6C27D-6D67-4FC5-A219-DE1ADA3CA1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71B6C27D-6D67-4FC5-A219-DE1ADA3CA1B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206AEEF0-94B9-4693-BB4A-9C554D4AD84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206AEEF0-94B9-4693-BB4A-9C554D4AD84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206AEEF0-94B9-4693-BB4A-9C554D4AD84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206AEEF0-94B9-4693-BB4A-9C554D4AD84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4CD0D5-2EBB-42F0-9104-F3ACA17F935F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4CD0D5-2EBB-42F0-9104-F3ACA17F935F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4CD0D5-2EBB-42F0-9104-F3ACA17F935F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4CD0D5-2EBB-42F0-9104-F3ACA17F935F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
