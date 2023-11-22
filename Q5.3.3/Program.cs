@@ -27,7 +27,7 @@ namespace Q5._3._3
             Console.WriteLine("..." + modif);
             if (deep > 0)
             {
-                Echo(modif, deep - 1); 
+                Echo(modif, deep - 1);
             }
         }
     }
