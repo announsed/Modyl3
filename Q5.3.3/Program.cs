@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Q5._3._3
+﻿namespace Q5._3._3
 {
     internal class Program
     {
@@ -22,7 +20,6 @@ namespace Q5._3._3
             if (modif.Length > 2) 
             { 
                 modif = modif.Remove(0, 2);
-                Console.BackgroundColor = (ConsoleColor)deep;
             }
             Console.WriteLine("..." + modif);
             if (deep > 0)
